@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "c999d14bb16c3dc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "58d13086b1bbc0cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e892328139c415a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "main/23. SEFL JOIN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23. SEFL JOIN"
+            }
+          },
+          {
+            "id": "6150123a19fb9f82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "main/30. stored function, procedures,.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "30. stored function, procedures,"
+            }
+          },
+          {
+            "id": "ba0f8c611dfeeb0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jjs quiarieees/01..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01."
+            }
+          },
+          {
+            "id": "e6251e82ee293a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jjs quiarieees/02. making reports under inventory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02. making reports under inventory"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6281bb4511a7941",
+    "type": "split",
+    "children": [
+      {
+        "id": "261f7dc335bdc301",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7d184f2e48b4986",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "feab19f22c0e219a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6cd2639b21c3d539",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7eaf8cb1b974cf8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c81bdb0dbd87518",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "106511a4f67c0f2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "main/1. types of database.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1. types of database"
+            }
+          },
+          {
+            "id": "5a5f27212fa13e2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "main/1. types of database.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. types of database"
+            }
+          },
+          {
+            "id": "3bd675b92490bf73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "283cefceb6bdc44d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "main/1. types of database.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. types of database"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e6251e82ee293a3c",
+  "lastOpenFiles": [
+    "Pasted image 20250506115143.png",
+    "Pasted image 20250506115048.png",
+    "Pasted image 20250506115028.png",
+    "Pasted image 20250506100843.png",
+    "Pasted image 20250505174344.png",
+    "Pasted image 20250505174259.png",
+    "Pasted image 20250505173752.png",
+    "Pasted image 20250505173731.png",
+    "Pasted image 20250505171915.png",
+    "Pasted image 20250505170753.png",
+    "Pasted image 20250505164024.png",
+    "jjs quiarieees/01..md",
+    "jjs quiarieees/02. making reports under inventory.md",
+    "main/31.case in sql.md",
+    "main/30. stored function, procedures,.md",
+    "main/23. SEFL JOIN.md",
+    "jjs quiarieees",
+    "main/27. group by.md",
+    "main/26. sub-queries.md",
+    "main/23. Self Join in Sql.md",
+    "main/22. UNION.md",
+    "main/21 LIMIT.md",
+    "main/20. ORDER BY.md",
+    "main/19. WILD CARDS.md",
+    "main/18. AND OR NOT BETWEEN.md",
+    "main/17. JOIN.md",
+    "main/15. Foreign keys.md",
+    "main/14 auto_increment.md",
+    "main/13. primary key.md",
+    "main/10. NOT NULL.md",
+    "main/2. alter database.md",
+    "main/1  create , use, drop database.md",
+    "main/29. on delete.md",
+    "main/28.  roll up.md",
+    "main/24. View in Sql.md",
+    "main/25. index.md",
+    "main/5 SELECT.md",
+    "main"
+  ]
+}
